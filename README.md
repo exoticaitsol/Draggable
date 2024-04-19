@@ -1,4 +1,4 @@
-[![npm version](https://img.shields.io/npm/v/@shopify/draggable.svg?label=@shopify/draggable)](https://www.npmjs.com/package/@shopify/draggable) [![CI](https://github.com/shopify/draggable/workflows/CI/badge.svg)](https://github.com/Shopify/draggable/actions?query=branch%3Amain) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Shopify/draggable/blob/main/CONTRIBUTING.md) ![Bundle size](https://img.shields.io/badge/Bundle%20size-16.2kB-red.svg)
+
 
 <a href="https://shopify.github.io/draggable" title="Visit Draggable website">
   <img src="https://user-images.githubusercontent.com/643944/35602291-99e2c56e-0605-11e8-847f-95f1f6be1610.jpg" alt="">
